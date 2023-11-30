@@ -1,0 +1,44 @@
+*{
+    font-family: canada-type-gibson, "Helvetica Neue", Helvetica, Arial, sans-serif;;
+}
+    body{
+        box-sizing: border-box;
+    }
+
+        .rc-desktop #footer{
+            outline: none;
+            width: auto;
+        }
+        .rc-footer-desktop{
+            color: #424242;
+            margin: 0 auto;
+        }
+        .rc-footer-container, .rc-footer-desktop{
+            width: 100%;
+            background-color: #f1f4f6;
+            padding: 0;
+        }
+
+        .page-top-div{
+            background-color: #D9D9D9;
+            padding: 15px 20px;
+            text-align: center;
+        }
+            #page-top{
+                font-size: .8rem;
+                font-weight: bolder;
+            }
+        footer{
+            display: block;
+        }   
+
+            ul{
+                list-style: none;
+            }
+                li{
+                    text-decoration: none;
+                }
+                    a{
+                        text-decoration: none;
+                        color: #424242;
+                    }
